@@ -9,6 +9,6 @@ public class HelloWorldController {
 
    @RequestMapping("/")
    public String helloWorld(){
-       return "Welcome to spring boot web application";
+       return "Welcome to spring boot web applicationWelcome to spring boot web application";
    }
 }
