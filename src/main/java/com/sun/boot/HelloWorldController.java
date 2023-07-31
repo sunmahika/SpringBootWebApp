@@ -12,13 +12,5 @@ public class HelloWorldController {
        return "Welcome to spring boot web applicationWelcome to spring boot web application";
    }
 
-   @RequestMapping("/")
-   public String helloWorld(){
-       return "Welcome to spring boot web applicationWelcome to spring boot web application";
-   }
-
-   @RequestMapping("/")
-   public String helloWorld(){
-       return "Welcome to spring boot web applicationWelcome to spring boot web application";
-   }
+   
 }
